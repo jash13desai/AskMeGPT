@@ -1,6 +1,6 @@
 <h1 align="center"> 
   <img align="center" src="https://github.com/jash-desai/AskMeGPT/blob/main/AppName.svg"/> </br>
-  <img align="center" alt="AskMeGPT" width="50px" src="https://raw.githubusercontent.com/jash-desai/AskMeGPT/main/assets/image/icon.jpg" />
+  <img align="center" alt="AskMeGPT" width="500px" src="https://raw.githubusercontent.com/jash-desai/AskMeGPT/main/assets/images/icon.jpg" />
 </h1>
 
 
